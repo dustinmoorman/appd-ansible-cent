@@ -1,0 +1,4 @@
+.settings/
+inventory.ini
+variables.json
+*.war
